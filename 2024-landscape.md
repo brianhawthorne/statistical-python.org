@@ -66,7 +66,7 @@ While R remains the default for statistics, Python is gaining ground, especially
 Stronger integration, better documentation, and a more unified vision could help Python become a true peer to R in the statistics domain.
 In particular, Python needs:
 
-- A unified, user-friendly interface for statistics, possibly modeled after R's tidyverse.
+- A unified, user-friendly interface for statistics.
 - Improved interoperability between core data structures and libraries.
 - More accessible teaching resources and case studies focused on statistics.
 - Lower barriers for contributors and greater visibility for specialized statistical packages.
