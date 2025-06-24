@@ -1,11 +1,14 @@
 ---
 site:
+  hide_title_block: true
   hide_outline: true
   hide_toc: true
   hide_footer_links: true
 ---
 
-# Welcome to Statistical Python
++++ { "kind": "justified"}
+
+## Welcome to Statistical Python
 
 The Statistical Python project is a community-driven and community-owned initiative dedicated to building a robust, sustainable ecosystem for statistical software in Python.
 Our mission is to unite statisticians, practitioners, educators, and developers to create high-quality, well-engineered statistical tools that empower research, education, and industry.
